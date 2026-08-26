@@ -1,5 +1,7 @@
 # Cloning a repo
 
+
+
 I am using a scratch folder, C:\Users\John ORaw\Desktop\rubbish>
 I should be able to clone this new repo. I use the command  
 

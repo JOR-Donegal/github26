@@ -20,31 +20,26 @@ There is a marketplace, you can search this for commercial tools to improve your
 
 Add an avatar/picture; be polite!
 
-Note that everyone can now see this repo, do not create assignments here unless you secure them as private. MArk all the repos you create here as __Private__.
+Note that everyone can now see this repo, do not create assignments here unless you secure them as private. Mark all the repos you create here as __Private__.
 
-Create a private repo called __IAC__
+Create a private repo called __First__
 
-Within that repo, create folders called
+There are some options:
 
-- Templates
-- DOS
-- Linux
-- Python 
-- PowerShell
-- Ansible
+- Visibility Private
+- No template
+- Add a README file (Yes)
+- Add a .gitignore for Python files
+- Use the MIT license
+
+Then click __Create new repository__
 
 <figure>
 <img src = "https://jor-donegal.github.io/github26/images/fig1.jpg">
-<figcaption>Fig 1. Home screen.</figcaption>
+<figcaption>Fig 1. New repo settings.</figcaption>
 </figure>
 
-There are some options: 
-
-- Add a README file
-- Add a .gitignore for Python files
-- Use the Creative Commons license
-
-You will now see an interface which gives some instructions; mine is show below.
+Review what has been created, examine the files to review their contents. You will now see a standard  interface; mine is show below.
 
 <figure>
 <img src = "https://jor-donegal.github.io/github26/images/fig2.jpg">
@@ -62,6 +57,4 @@ Edit the __readme.md__ file as you go along, someone browsing your repo should b
 - If there is major documentation in sections, you could link to it from here.
 - If its complicated, include a table of contents with links.
 
-readme.md should be short, its a summary, not detail.
-
-I am not a fan of badges, etc. but feel free to add.
+readme.md should be short, its a summary, not detail. I am not a fan of badges, etc. but feel free to add.
