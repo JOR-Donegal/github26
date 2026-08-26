@@ -1,7 +1,5 @@
 # Cloning a repo
 
-
-
 ````dos
 git clone https://github.com/GreatlyImprovedTechnology/first.git
 ````
