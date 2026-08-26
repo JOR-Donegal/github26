@@ -2,9 +2,6 @@
 
 
 
-I am using a scratch folder, C:\Users\John ORaw\Desktop\rubbish>
-I should be able to clone this new repo. I use the command  
-
 ````dos
 git clone https://github.com/GreatlyImprovedTechnology/first.git
 ````
@@ -12,7 +9,7 @@ git clone https://github.com/GreatlyImprovedTechnology/first.git
 This creates a new directory with the files I previously had in GitHub.
 
 <figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig3.jpg">
+<img src = "https://jor-donegal.github.io/github26/images/fig1.jpg">
 <figcaption>Fig 3. Cloning.</figcaption>
 </figure>
 
