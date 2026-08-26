@@ -1,4 +1,4 @@
-# Setup
+# Web Setup
 
 One of the disciplines we need to get right, is to be able to follow a brief exactly.
 
