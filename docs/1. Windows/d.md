@@ -1,4 +1,4 @@
-# Pulling from the remote location
+# Pulling from remote 
 
 I only update in one place at a time, once we have conflicting updates in two different places, the world gets complicated.
 
