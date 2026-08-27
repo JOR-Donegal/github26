@@ -1,38 +1,28 @@
-# Pulling from the remote location
+# Pushing local changes
 
-I only update in one place at a time, once we have conflicting updates in two different places, the world gets complicated.
+## Checking the remote origin
 
-Through my web browser, I click on jor.txt
+Because I originally cloned from a remote origin, Git knows where I can fetch or push things to. In Git, an origin is a pointer to the URL where you copied the repo from. Origin is the default remote name in Git. I should check all my configuration.
 
 <figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig9.jpg">
-<figcaption>Fig 9. Online file.</figcaption>
+<img src = "https://jor-donegal.github.io/github26/images/fig6.jpg">
+<figcaption>Fig 6. Config.</figcaption>
 </figure>
 
-I click on the pen symbol to edit.
+The config includes details of where this repo was copied from, the origin.
+
+## Pushing to the remote origin
+
+I have a new file committed which is not in the remote location. I can now push this.
 
 <figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig10.jpg">
-<figcaption>Fig 10. Online edit.</figcaption>
+<img src = "https://jor-donegal.github.io/github26/images/fig7.jpg">
+<figcaption>Fig 7. Pushing my changes back.</figcaption>
 </figure>
 
-I make a meaningless edit (!) and __Commit__ the change. Note that I need to give a message for the commit.
+And then check through the web browser to see if this worked.
 
 <figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig11.jpg">
-<figcaption>Fig 11. Online commit.</figcaption>
-</figure>
-
-On my local computer I can know see this change and pull it.
-
-<figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig12.jpg">
-<figcaption>Fig 12. Pull.</figcaption>
-</figure>
-
-Finally, I verify the history of changes to that file.
-
-<figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig13.jpg">
-<figcaption>Fig 13. Pull.</figcaption>
+<img src = "https://jor-donegal.github.io/github26/images/fig8.jpg">
+<figcaption>Fig 8. Verify the changes.</figcaption>
 </figure>
