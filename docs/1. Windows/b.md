@@ -15,7 +15,7 @@ git clone https://github.com/JOR-Donegal/First.git
 This creates a new directory called __First__ with the files I previously had in GitHub.
 
 <figure>
-<img src = "https://jor-donegal.github.io/github26/images/fig1.jpg">
+<img src = "https://jor-donegal.github.io/github26/images/fig3.jpg">
 <figcaption>Fig 3. Cloning.</figcaption>
 </figure>
 
