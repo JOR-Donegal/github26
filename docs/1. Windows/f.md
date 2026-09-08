@@ -1,6 +1,6 @@
 # Integrate VSCode
 
-Everything I’m doing here uses Git, but also ties into GitHub.
+Everything I’m doing here uses Git, but also ties into GitHub. I am always reluctant to do walkthroughs with a GUI, as interfaces change so regularly. As long as you can follow the logic we are good. You can figure out any changes in the interface as you carry out these exercises.
 
 I open Visual Studio Code and select a folder which has an existing repo cloned from GitHub (__Second__).
 
