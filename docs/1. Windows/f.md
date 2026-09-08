@@ -54,3 +54,7 @@ If I monitor the output, I can see the detail of the push to the repo.
 
 And I can verify on GitHub.
 
+<figure>
+<img src = "https://jor-donegal.github.io/github26/images/fig26.jpg">
+<figcaption>Fig 26. Verification.</figcaption>
+</figure>
