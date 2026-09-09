@@ -1,6 +1,6 @@
 # Merging locally
 
-On my local machine, I pull changes from remote.
+On my local machine, I will merging the changes from GitHub, I pull changes from remote.
 
 <figure>
 <img src = "https://jor-donegal.github.io/github26/images/fig64.jpg">
